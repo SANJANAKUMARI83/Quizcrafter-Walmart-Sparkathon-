@@ -1,4 +1,4 @@
-# Quizcrafter-Walmart-Sparkathon-
+# Quizcrafter
 QuizCrafter is an AI-driven application that generates multiple-choice questions (MCQs) from user-uploaded PDFs.
 
 # QuizCrafter
